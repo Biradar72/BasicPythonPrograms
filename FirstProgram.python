@@ -1,5 +1,5 @@
 #Addition of 2 number from input by user
 
-A=int(input("Enter Number1")); # Takeing number from user two numbers in veriable A and B
+A=int(input("Enter Number1")); # Reciveing input from user for addtion
 B=int(input("Enter number2"));
 print("Addtion=:",A+B);
